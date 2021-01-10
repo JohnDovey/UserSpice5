@@ -1,6 +1,6 @@
 # UserSpice 5
 
-## Folder: usersc/include
+## Folder: usersc/include/lang
 
 If you would like to override any of the existing language keys that are in users/lang, you can do so by creating a file with the same name in this folder.
 
